@@ -10,7 +10,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' }
     ],
-    logo: '.vitepress/logo.svg',
+    logo: 'https://raw.githubusercontent.com/InternetNinjo/fmhy-scout/refs/heads/main/.vitepress/logo.svg',
     sidebar: [
       {
         text: 'Examples',
